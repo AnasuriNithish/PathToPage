@@ -14,10 +14,6 @@ If you are developing a production application, we recommend using TypeScript wi
 Here is a **clean, professional, production-quality README.md** for your Admin Dashboard project.
 You can **copy-paste it directly** into your repository.
 
----
-
-# **README.md**
-
 # **Admin Dashboard**
 
 A modern, fast, and lightweight Admin Dashboard built using **React**, **Vite**, **TailwindCSS**, and several modern UI/animation libraries.
